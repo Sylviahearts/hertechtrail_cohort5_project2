@@ -1,0 +1,287 @@
+body {
+  background-color: #efefef;
+  font-family: "Mulish", sans-serif;
+}
+/* first section */
+.bgimg {
+  background-image: url(abimages/bgimg.png);
+  padding: 120px;
+  color: #ffffff;
+
+  font-size: 60px;
+  font-weight: 800;
+  line-height: 75px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+/* second section */
+.committed-sec {
+  padding: 100px 150px;
+  background-color: white;
+}
+.welcome-sm-div {
+  background-color: #f4f4f4;
+  display: flex;
+  width: fit-content;
+  padding: 10px 7px;
+}
+
+.welcome-txt {
+  margin-left: 10px;
+}
+.title {
+  font-size: 45x;
+  font-weight: 700;
+  line-height: 45px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-top: 2px;
+  color: #1c2752;
+  /* border: 2px solid red; */
+}
+.content-div {
+  padding-right: 50px;
+}
+.content-div > h1 {
+  /* padding-right: 120px; */
+}
+.content-div > p {
+  color: #7e7e7e;
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+.tickicon-txt {
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #1c2752;
+  margin-left: 5px;
+}
+.signature {
+  height: 51px;
+  width: 170px;
+  margin-top: 15px;
+  margin-right: 10px;
+  /* border: 2px solid green; */
+}
+.linee {
+  margin-top: 15px;
+  margin-left: 0px;
+}
+.bgcol {
+  background-color: #efefef;
+}
+.founder-txt {
+  margin-top: 15px;
+  font-family: Mulish;
+  font-size: 20px;
+  font-weight: 800;
+  line-height: 25px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #1c2752;
+}
+.founder-txt2 {
+  /* font-family: Inter; */
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #ffb342;
+  /* margin-bottom: 40px; */
+}
+.btn {
+  background-color: #ffb342;
+  color: #1c2752;
+  align-items: center;
+  padding: 20px 20px 18px;
+  margin-top: 15px;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  text-align: center;
+}
+.link > a {
+  /* font-family: Inter; */
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #1c2752;
+}
+.link > h3 {
+  font-family: Mulish;
+  font-size: 25px;
+  font-weight: 800;
+  line-height: 38px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #ffb342;
+}
+.link {
+  margin-top: 15px;
+}
+
+/* card section */
+.crd {
+  background-color: #f4f4f4;
+  margin-top: 100px;
+  border: #efefef;
+}
+.crd-icon {
+  width: 90px;
+  height: 60px;
+  margin-left: 60px;
+  margin-bottom: 15px;
+}
+.crd > h1 {
+  /* font-family: Mulish; */
+  font-size: 45px;
+  font-weight: 800;
+  line-height: 45px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #1c2752;
+}
+.crd > p {
+  /* font-family: Inter; */
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #1c2752;
+}
+.dot {
+  position: relative;
+  right: 13px;
+}
+.line1 {
+  position: relative;
+  top: 160px;
+  right: 27px;
+}
+.line2 {
+  position: relative;
+  top: 300px;
+  right: 53px;
+}
+.dot2 {
+  position: relative;
+  right: 40px;
+  top: 130px;
+}
+.dot3 {
+  position: relative;
+  right: 65px;
+  top: 270px;
+}
+.years {
+  background-color: #1c2752;
+  color: #ffb342;
+  font-size: 20px;
+  font-weight: 800;
+  line-height: 25px;
+  text-align: center;
+  padding: 5px 35px;
+  display: block;
+  width: fit-content;
+}
+
+.year-content1 {
+  font-size: 15px;
+  font-weight: 400;
+  text-align: left;
+}
+
+.y2022 {
+    position: absolute;
+    bottom: 70px;
+}
+
+.sub-con1 {
+  background-color: #ffffff;
+  border: 1px solid #7e7e7e;
+  color: #7e7e7e;
+  margin-bottom: 80px;
+  padding: 18px;
+  position: relative;
+
+}
+
+.build {
+  margin-top: 30px;
+}
+.build > p {
+  margin-left: 40px;
+}
+.writeup {
+  padding: 0px 450px;
+}
+
+.team-member {
+  border: 2px solid #1c27521a;
+  margin-top: 10px;
+  padding: 15px 15px 50px;
+}
+
+.scol {
+  margin-right: 0px;
+}
+.gallery {
+  padding: 10px 200px;
+  margin-bottom: 100px;
+}
+.col1 > h4 {
+  color: #1c2752;
+  /* font-family: Mulish; */
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 31px;
+  letter-spacing: 0em;
+  /* text-align: center; */
+}
+.col1 > p {
+  color: #7e7e7e;
+}
+.subscribe {
+  background-color: #ffb342;
+  color: #1c2752;
+}
+
+.input {
+  border: 2px solid white;
+  background-color: #ffb342;
+  color: #1c2752;
+  padding: 15px 20px;
+}
+.sub-btn {
+  background-color: #ffffff;
+  color: #1c2752;
+  padding: 15px 50px;
+}
+
+.footer {
+  background-color: #1c2752;
+}
+.mspan {
+  /* font-family: Mulish; */
+  font-size: 35px;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: 0em;
+  text-align: left;
+  padding-top: 280px;
+  margin-left: 20px;
+  color: #ffffff;
+}

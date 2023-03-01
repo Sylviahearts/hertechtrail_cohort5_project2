@@ -1,0 +1,194 @@
+/* phone */
+
+@media only screen and (max-width: 600px) {
+  .bgimg {
+    padding: 60px;
+    font-size: 50px;
+    font-weight: 800;
+    line-height: 75px;
+    letter-spacing: 0em;
+    text-align: center;
+  }
+
+  .committed-sec {
+    padding: 40px 0px;
+  }
+  .const-pic {
+    display: none;
+  }
+  .content-div > h1 {
+    padding-right: 20px;
+  }
+  .content-div > p {
+    font-size: 20px;
+    font-weight: 500;
+
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+  .title {
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 25px;
+    text-align: none;
+    margin-top: 7px;
+  }
+  .content-div {
+    padding-right: 0px;
+    padding-left: 20px;
+  }
+  .ticks {
+    margin-bottom: 17px;
+  }
+
+  .signature {
+    display: none;
+  }
+  .linee {
+    display: none;
+  }
+  .founder-txt {
+    margin-top: 20px;
+    font-size: 25px;
+    text-align: center;
+  }
+  .founder-txt2 {
+    font-size: 18px;
+
+    text-align: center;
+  }
+  .btn {
+    margin-left: 100px;
+    padding: 15px 20px 18px;
+    margin-top: 20px;
+    font-weight: 600;
+    font-size: 18px;
+  }
+  .link > a {
+    /* font-family: Inter; */
+    font-size: 18px;
+
+    text-align: center;
+    color: #1c2752;
+    margin-left: 35px;
+  }
+  .link > h3 {
+    font-family: Mulish;
+    font-size: 25px;
+    font-weight: 800;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #ffb342;
+    margin-left: 80px;
+  }
+  .link {
+    margin-top: 25px;
+  }
+
+  .gallery{
+    padding: 10px;
+  }
+  .writeup{
+    padding: 0px;
+  }
+}
+
+/* tablet */
+
+@media only screen and (max-width: 1200px) and (min-width: 600px) {
+  .bgimg {
+    padding: 60px;
+    font-size: 50px;
+    font-weight: 800;
+    line-height: 75px;
+    letter-spacing: 0em;
+    text-align: center;
+  }
+
+  .committed-sec {
+    padding: 40px 10px;
+  }
+  .const-pic {
+    display: none;
+  }
+  .content-div > h1 {
+    padding-right: 0px;
+  }
+  .content-div > p {
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 32px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+  }
+  .title {
+    font-size: 45px;
+    text-align: none;
+    margin-top: 7px;
+  }
+  .content-div {
+    padding-right: 0px;
+    padding-left: 30px;
+  }
+  .tick {
+    padding-left: 70px;
+  }
+  .ticks {
+    margin-bottom: 17px;
+  }
+
+  .signature {
+    /* height: 51px; */
+    /* width: 170px; */
+    margin-top: 20px;
+    margin-left: 110px;
+    /* border: 2px solid green; */
+  }
+  .linee {
+    margin-top: 20px;
+    margin-left: 0px;
+  }
+  .founder-txt {
+    margin-top: 20px;
+  }
+  .founder-txt2 {
+    /* font-family: Inter; */
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #ffb342;
+    /* margin-bottom: 40px; */
+  }
+  .btn {
+    margin-left: 120px;
+    padding: 15px 20px 18px;
+    margin-top: 25px;
+    font-weight: 600;
+    font-size: 18px;
+  }
+  .link > a {
+    /* font-family: Inter; */
+    font-size: 20px;
+    /* border: 2px solid red; */
+
+    text-align: center;
+    color: #1c2752;
+    margin-left: 10px;
+  }
+  .link > h3 {
+    font-family: Mulish;
+    font-size: 25px;
+    /* font-weight: 800;
+    line-height: 38px; */
+    letter-spacing: 0em;
+    text-align: left;
+
+    margin-left: 10px;
+  }
+  .link {
+    margin-top: 25px;
+  }
+}

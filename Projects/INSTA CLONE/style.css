@@ -1,0 +1,150 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height:1000px;
+    display: flex;
+}
+.first{
+    width: 20%;
+    height:90%;
+    padding-left: 20px;
+    padding-top: 40px;
+}
+.logodiv{
+    width: 70%;
+    height:65px;
+    margin-bottom: 50px;
+}
+.home{
+    width: 70%;
+    height:65px;
+    margin-bottom: 30px;
+    display: flex;
+}
+.search{
+    width: 70%;
+    height:65px;
+    margin-bottom: 30px;
+    display: flex;
+}
+.explore{
+    width: 70%;
+    height:65px;
+    margin-bottom: 30px;
+    display: flex;
+}
+.messages{
+    width: 70%;
+    height:65px;
+    margin-bottom: 30px;
+    display: flex;
+}
+.notify{
+    width: 73%;
+    height:65px;
+    margin-bottom: 30px;
+    display: flex;
+}
+.create{
+    width: 70%;
+    height:65px;
+    margin-bottom: 30px;
+    display: flex;
+}
+.profile{
+    width: 70%;
+    height:65px;
+    margin-bottom: 30px;
+    display: flex;
+}
+.second{
+    width: 39%;
+    height:80%;
+    padding-top: 30px;
+    padding-left: 55px;
+    background-color: rgb(235, 232, 232);
+  
+}
+.sec1{
+    background-color: white;
+    width: 100%;
+    height:18%;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+section{
+    border: 2px solid  purple;
+    width: 63px;
+    height: 50%;
+    border-radius: 50%;
+   
+}
+.sec2{
+    background-color: white;
+    width: 100%;
+    height:70%;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.storymain{
+    width: 100%;
+    height:16%;
+    display: flex;
+
+}
+.imgmain{
+    width: 100%;
+    height:80%;
+}
+.story{
+    width: 63px;
+    height: 65px;
+    border-radius: 50%;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+.third {
+    width: 40%;
+    height:80%;
+    padding: 30px;
+}
+.promain{
+    width: 100%;
+    height:15%;
+    display: flex;
+}
+.sug{
+    display: flex;
+    width: 100%; 
+}
+.th1{
+    width: 100%;
+    height:15%;
+    display: flex;
+}
+.th2{
+    width: 100%;
+    height:15%;
+    display: flex;
+}
+.th3{
+    width: 100%;
+    height:15%;
+    display: flex;
+}
+.th4{
+    width: 100%;
+    height:15%;
+    display: flex;
+}
+.th5{
+    width: 100%;
+    height:15%;
+    display: flex;
+}

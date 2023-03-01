@@ -1,0 +1,276 @@
+ /* *{
+    border: 1px solid red;
+}  */
+
+
+body{
+    background-color: rgb(49, 49, 48);
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+   
+.maindiv{
+    /* border: 2px solid red; */
+    width: 100%;
+    height: 150px;
+    position: sticky;
+}
+.m1{
+    /* border: 2px solid green; */
+    width: 90%;
+    height: 95px;
+    display: flex;
+    margin-left: 10%;
+    position: sticky;
+
+}
+.input{
+    border: 2px solid rgb(76, 75, 75);
+    background-color: rgb(76, 75, 75);
+    color: white;
+    width: 55%;
+    height: 30px;
+    border-radius: 30px;
+    margin-top: 20px;
+    margin-left: 50px;
+    padding-left: 15px;
+    padding-top: 10px;
+    display: flex;
+}
+.m2{
+    /* border: 2px solid red; */
+    width: 90%;
+    height: 50px;
+    color: white;
+    display: flex;
+    margin-left: 10%;
+}
+.main2{
+    /* border: 2px solid rgb(0, 0, 255); */
+    width: 90%;
+    height: 100px;
+    margin-left: 10%;
+    display: flex;
+}
+.name{
+    /* border: 2px solid red; */
+    width: 250;
+    height: 80%;
+}
+.boxes{
+    /* border: 2px solid green; */
+    width: 70%;
+    height: 80%;
+    margin-left: 10px;
+    display: flex;
+}
+.box1{
+    border: 2px solid white;
+    color: white;
+    background-color: rgb(83, 124, 83);
+    width: 100px;
+    height: 30px;
+    padding-top: 15px;
+    padding-left: 40px;
+    margin-top: 20px;
+    border-radius:30px;
+    margin-left: 8px;
+}
+.box2{
+    color: white;
+    background-color: rgb(83, 124, 83);
+    width: 60px;
+    height: 30px;
+    padding-top: 15px;
+    padding-left: 30px;
+    margin-top: 20px;
+    margin-left: 15px;
+    margin-top: 24px;
+    border-radius:30px;
+}
+.box3{
+    color: white;
+    background-color: rgb(83, 124, 83);
+    width: 70px;
+    height: 30px;
+    padding-top: 15px;
+    padding-left: 30px;
+    margin-top: 20px;
+    margin-left: 15px;
+    margin-top: 24px;
+    border-radius:30px;
+}
+.box4{
+    color: white;
+    background-color: rgb(83, 124, 83);
+    width: 70px;
+    height: 30px;
+    padding-top: 15px;
+    padding-left: 35px;
+    margin-top: 20px;
+    margin-left: 15px;
+    margin-top: 24px;
+    border-radius:30px;
+}
+.majorpicdiv1{
+    /* border: 2px solid yellow; */
+    width: 49%;
+    height: 500px;
+    display: flex;
+}
+.picdiv1{
+    /* border: 2px solid green; */
+    width: 49%;
+    height:  100%;
+}
+.picdiv2{
+    /* border: 2px solid blue; */
+    width: 49%;
+    height:  100%;
+}
+.subdiv1{
+    /* border: 2px solid red; */
+    width: 100%;
+    height:  50%; 
+}
+.subdiv2{
+    /* border: 2px solid white; */
+    width: 100%;
+    height:  50%; 
+}
+.majorpicdiv2{
+    /* border: 2px solid red; */
+    width: 40%;
+    height: 500px;
+    margin-left: 5px;
+    display: flex; 
+}
+.cont1{
+    /* border: 2px solid red; */
+    width: 48%;
+    height: 100%;
+    
+}
+.cont2{
+    /* border: 2px solid blue; */
+    width: 49%;
+    height: 100%;
+    margin-left: 10px;
+}
+
+.subcont1{
+    /* border: 2px solid blue; */
+    width: 98%;
+    height: 45%;  
+}
+.subcont2{
+    /* border: 2px solid red; */
+    width: 98%;
+    height: 53%;
+    background-color: rgb(30, 29, 29);
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+   
+   
+}
+.subcont3{
+    /* border: 2px solid blue; */
+    width: 98%;
+    height: 48%;  
+    display: flex;
+    gap: 10px; 
+}
+.subcont4{
+    /* border: 2px solid pink; */
+    width: 98%;
+    height: 47%;
+    margin-top: 15px;
+    border-radius: 20px;
+    background-color: rgb(30, 29, 29);
+    display: flex;
+}
+ .sec1{
+    /* border: 2px solid yellow; */
+    background-color: rgb(83, 124, 83);
+    width: 45%;
+    height: 96%; 
+    border-radius: 20px;
+    color: white;
+ } 
+ .sec2{
+    float: right;
+    width: 40%;
+    height: 85%; 
+    margin-top: 15px;
+    margin-right: 20px; 
+    /* border: 2px solid yellow; */
+ } 
+ .maindiv2{
+    /* border: 2px solid yellow; */
+    width: 90%;
+    height: 1000px;
+    margin-left: 10%;
+    display: flex;
+    margin-top: 20px;
+ } 
+ .md1{
+    /* border: 2px solid blue; */
+    width: 100%;
+    height: 98%;
+    color: white;
+ }
+ .md2{
+    /* border: 2px solid red; */
+    width: 35%;
+    height: 100%;
+    color: white;
+}
+.profile{
+    /* border: 2px solid red; */
+    width: 100%;
+    height: 100px;
+    display: flex;
+    gap: 20px;
+}
+.pf{
+    /* border: 2px solid red; */
+    width: 100px;
+    height: 99%
+}
+.md1sub{
+    /* border: 2px solid white; */
+    width: 100%;
+    height: 65%;
+    margin-top: 10px;
+    display: flex;
+ }
+ .md1sub1{
+    /* border: 2px solid pink; */
+    width: 50%;
+    height: 100%;
+    display: flex;
+    
+ }
+ .md1sub2{
+    /* border: 2px solid yellow; */
+    width: 50%;
+    /* display: flex; */
+    height: 100%;
+ }
+  
+.rdbtn{
+    width: 250px;
+    height: 50px;
+    border: 1px solid white;
+    background-color: rgb(49, 49, 48);
+    color: white;
+    border-radius: 40px;
+    margin-left: 20px;
+}
+.md3{
+    border: 2px solid green;
+    width: 100%;
+    height: 150px;
+    
+}
